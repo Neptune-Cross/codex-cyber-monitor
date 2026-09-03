@@ -119,3 +119,5 @@ $ErrorActionPreference = 'Stop'
 - `Audit-CodexCyberHistory.ps1`：一次性历史审计。
 - `Watch-CodexCyber.ps1`：控制台实时监测。
 - `tests\Test-CodexCyberParser.ps1`：PowerShell 解析器测试。
+
+## https://linux.do
