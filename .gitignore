@@ -1,0 +1,12 @@
+logs/
+tests/live-fixture/
+**/bin/
+**/obj/
+*.user
+dist/
+release/
+.vs/
+
+# 仅保存在开发者本机的诊断/申诉资料与实机截图
+申诉材料/
+docs/history-window-preview.png
